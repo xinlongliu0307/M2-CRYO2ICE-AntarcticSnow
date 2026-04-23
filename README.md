@@ -1,8 +1,8 @@
-# Antarctic CRYO2ICE Snow Thickness Retrieval (M2)
+# Antarctic CRYO2ICE Snow Thickness Retrieval (Manuscript 2)
 
 Code and derived data for the manuscript:
 
-> Liu, X., Fraser, A. D., Corney, S., Heil, P., and Tilling, R. L. (2026). *Antarctic snow thickness from CRYO2ICE dual altimetry: retrieval, sensitivity, and validation against AMSR2* (in review).
+> Liu, X., Fraser, A. D., Corney, S., Heil, P., and Tilling, R. L. (2026). *Antarctic snow thickness from CRYO2ICE dual altimetry: retrieval, sensitivity, and validation against AMSR2* (Submitted).
 
 This repository contains the complete processing pipeline used to retrieve Antarctic snow thickness from coincident ICESat-2 ATL10 V7 and CryoSat-2 Baseline-E (L2E) observations over the CRYO2ICE period (August 2022 – September 2025), together with the scripts that generate the manuscript figures and tables.
 
