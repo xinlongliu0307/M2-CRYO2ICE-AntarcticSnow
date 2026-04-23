@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the accompanying manuscript and this archived code release."
+title: "Antarctic CRYO2ICE Snow Thickness Retrieval (M2)"
+authors:
+  - family-names: Liu
+    given-names: Xinlong
+    affiliation: "Institute for Marine and Antarctic Studies, University of Tasmania"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Fraser
+    given-names: Alexander D.
+    affiliation: "Australian Antarctic Program Partnership, University of Tasmania"
+  - family-names: Corney
+    given-names: Stuart
+    affiliation: "Institute for Marine and Antarctic Studies, University of Tasmania"
+  - family-names: Heil
+    given-names: Petra
+    affiliation: "Australian Antarctic Division; Australian Antarctic Program Partnership"
+  - family-names: Tilling
+    given-names: Rachel L.
+    affiliation: "NASA Goddard Space Flight Center"
+version: 1.0.0
+date-released: "2026-04-23"
+license: MIT
+repository-code: "https://github.com/xinlongliu/M2-CRYO2ICE-AntarcticSnow"
+abstract: >-
+  Python code for retrieving Antarctic snow thickness on sea ice from
+  coincident ICESat-2 ATL10 V7 and CryoSat-2 Baseline-E L2E observations
+  (CRYO2ICE, August 2022 – September 2025), with sensitivity, autocorrelation,
+  and AMSR2 validation diagnostics. Accompanies Liu et al. (2026).
+keywords:
+  - Antarctic sea ice
+  - snow thickness
+  - CRYO2ICE
+  - ICESat-2
+  - CryoSat-2
+  - dual altimetry
+  - AMSR2

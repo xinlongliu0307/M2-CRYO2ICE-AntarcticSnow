@@ -1,0 +1,20 @@
+name: m2-cryo2ice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.22.4
+  - pandas
+  - scipy
+  - matplotlib
+  - h5py
+  - netcdf4
+  - xarray=2023.6.0
+  - dask=2022.6.0
+  - pyresample=1.31.0
+  - cartopy=0.23.0
+  - scikit-learn
+  - pyproj
+  - jupyter
+  - ipykernel

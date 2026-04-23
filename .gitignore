@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtualenv / conda
+venv/
+env/
+.env
+cryo2ice_env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Raw input data (never committed; always re-downloaded from NSIDC/ESA)
+data/raw/
+*.h5
+*.nc.gz
+
+# Large derived files archived on Zenodo, not in Git
+data/gridded_snow_thickness_6250m.nc
+data/snow_thickness_with_amsr2_all.csv
+data/sensitivity_R3.5km.csv
+data/sensitivity_R5.0km.csv
+data/sensitivity_R7.0km.csv
+
+# Figure output directories
+output/
+figures/
+*.png.tmp
+
+# Compressed archives
+*.zip
+*.tar.gz

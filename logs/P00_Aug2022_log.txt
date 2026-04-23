@@ -1,0 +1,17 @@
+M2 August 2022 CRYO2ICE Analysis
+Generated: 04-Mar-2026 17:44:30
+
+Phase 0 complete: 0.8 s
+ATL10 FB var: beam_fb_height
+CS2 FB var: radar_freeboard_20_ku
+Gap fraction (example): 0.0%
+
+
+
+FINAL RESULTS
+ATL07-based tracks: 12
+ATL10-based tracks: 4
+Extra from ATL07: 8
+No ATL10 file: 1
+Has FB but missed: 7
+Zero FB: 0

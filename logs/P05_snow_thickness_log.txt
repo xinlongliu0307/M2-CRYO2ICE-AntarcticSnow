@@ -1,0 +1,12 @@
+P05 Full Snow Thickness Retrieval
+Generated: 06-Mar-2026 17:26:35
+Winter tracks: 34
+Bin size: 10 km
+
+
+FINAL RESULTS
+Tracks: 13 success / 34 total
+Bins: 335 (10 km)
+hs median: 0.101 m
+hs mean: 0.157 m
+sigma_hs median: 0.038 m

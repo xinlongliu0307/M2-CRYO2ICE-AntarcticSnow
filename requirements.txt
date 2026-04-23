@@ -1,0 +1,17 @@
+# Python dependencies for M2 CRYO2ICE Antarctic snow-thickness pipeline
+# Developed and tested on NCI Gadi (Python 3.9.2)
+
+numpy==1.22.4
+pandas>=1.5,<2.3
+scipy>=1.9
+matplotlib>=3.6
+h5py>=3.7
+netCDF4>=1.6
+xarray==2023.6.0
+dask==2022.6.0
+pyresample==1.31.0
+cartopy==0.23.0
+scikit-learn>=1.1
+pyproj>=3.4
+jupyter>=1.0
+ipykernel>=6.0
