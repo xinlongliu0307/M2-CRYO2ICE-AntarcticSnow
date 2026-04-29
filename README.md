@@ -2,7 +2,7 @@
 
 Code and derived data for the manuscript:
 
-> Liu, X., Fraser, A. D., Corney, S., Heil, P., and Tilling, R. L. (2026). *Systematic CRYO2ICE Snow-Thickness Retrieval over Antarctic Sea Ice Reveals Multi-Year Weddell-Ross Seas Contrast* (Submitted).
+> Liu, X., Fraser, A. D., Corney, S., Heil, P., and Tilling, R. L. (2026). *Weddell-Ross Snow-Thickness Contrast over Antarctic Sea Ice from Multi-Winter CRYO2ICE Observations* (Submitted).
 
 This repository contains the complete processing pipeline used to retrieve Antarctic snow thickness from coincident ICESat-2 ATL10 V7 and CryoSat-2 Baseline-E (L2E) observations over the CRYO2ICE period (August 2022 – September 2025), together with the scripts that generate the manuscript figures and tables.
 
