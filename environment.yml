@@ -1,20 +1,31 @@
-name: m2-cryo2ice
+name: cryo2ice-snow
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
-  - python=3.9
-  - numpy=1.22.4
-  - pandas
-  - scipy
-  - matplotlib
-  - h5py
-  - netcdf4
-  - xarray=2023.6.0
-  - dask=2022.6.0
-  - pyresample=1.31.0
-  - cartopy=0.23.0
-  - scikit-learn
-  - pyproj
-  - jupyter
-  - ipykernel
+  - python=3.9.2
+  # Core scientific stack
+  - numpy>=1.20,<1.25
+  - pandas>=1.3,<2.0
+  - xarray>=0.20
+  - netcdf4>=1.5
+  - scipy>=1.7
+  - matplotlib>=3.4
+  - cartopy>=0.20
+  - pyproj>=3.2
+  - cmocean>=2.0
+  # Geospatial helpers
+  - shapely>=1.8
+  - geopandas>=0.10
+  - pyresample>=1.22
+  # I/O helpers
+  - h5py>=3.6
+  - h5netcdf>=1.0
+  - dask>=2022.1
+  # Notebook / interactive
+  - jupyterlab>=3.2
+  - ipykernel>=6.4
+  - notebook>=6.4
+  # Utilities
+  - tqdm>=4.62
+  - pyyaml>=6.0

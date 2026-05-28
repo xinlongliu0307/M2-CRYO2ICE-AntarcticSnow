@@ -1,0 +1,56 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# --- Environments ---
+.venv/
+venv/
+env/
+.env
+.envrc
+*.egg-info/
+build/
+dist/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- IDEs / editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- Project-specific: large raw inputs and intermediate files ---
+data/raw/
+data/intermediate/
+data/_scratch/
+*.nc.tmp
+*.zip
+*.tar
+*.tar.gz
+
+# Large derived products (kept on Zenodo, not in Git)
+data/gridded_snow_thickness_6250m.nc
+data/snow_thickness_with_amsr2_all.csv
+data/sensitivity_R*.csv
+
+# --- Logs and reports ---
+logs/*.log
+logs/*.out
+logs/*.err
+*.log
+
+# --- Outputs that should be regenerated, not version-controlled ---
+figures/_drafts/
+output/

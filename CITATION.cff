@@ -1,37 +1,93 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite both the accompanying manuscript and this archived code release."
-title: "Antarctic CRYO2ICE Snow Thickness Retrieval (M2)"
+message: >-
+  If you use this software or the associated derived data, please cite both
+  the archived release (this file) and the manuscript / preprint listed
+  under preferred-citation.
+type: software
+title: >-
+  Python Scripts, Jupyter Notebooks, and Results for "Weddell-Ross
+  Snow-Thickness Contrast over Antarctic Sea Ice from Multi-Winter CRYO2ICE
+  Observations"
+version: 1.0.0
+date-released: "2026-05-28"
+license: MIT
+repository-code: >-
+  https://github.com/xinlongliu0307/cryo2ice-antarctic-snow-depth
+url: https://doi.org/10.5281/zenodo.19220192
+doi: 10.5281/zenodo.19220192
+abstract: >-
+  Complete processing pipeline used to retrieve Antarctic snow thickness from
+  coincident ICESat-2 ATL10 V7 and CryoSat-2 Baseline-E (L2E) observations
+  over the CRYO2ICE period (August 2022 - September 2025), together with the
+  Jupyter notebooks that generate the manuscript figures, tables, and
+  sensitivity-test outputs (delta sensitivity 0.30-0.90, SIC threshold
+  50-90 %, collocation radius 3.5/5.0/7.0 km), gridding onto the 6.25 km
+  NSIDC polar stereographic South grid, and AMSR2 inter-comparison.
+
 authors:
   - family-names: Liu
     given-names: Xinlong
-    affiliation: "Institute for Marine and Antarctic Studies, University of Tasmania"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0001-6794-7571"
+    affiliation: >-
+      Institute for Marine and Antarctic Studies, University of Tasmania,
+      Hobart, Tasmania, Australia
+    email: xinlong.liu@utas.edu.au
   - family-names: Fraser
     given-names: Alexander D.
-    affiliation: "Australian Antarctic Program Partnership, University of Tasmania"
-  - family-names: Corney
-    given-names: Stuart
-    affiliation: "Institute for Marine and Antarctic Studies, University of Tasmania"
-  - family-names: Heil
-    given-names: Petra
-    affiliation: "Australian Antarctic Division; Australian Antarctic Program Partnership"
+    orcid: "https://orcid.org/0000-0003-1924-0015"
+    affiliation: >-
+      Australian Antarctic Program Partnership, Institute for Marine and
+      Antarctic Studies, University of Tasmania, Hobart, Tasmania, Australia
   - family-names: Tilling
     given-names: Rachel L.
-    affiliation: "NASA Goddard Space Flight Center"
-version: 1.0.0
-date-released: "2026-04-23"
-license: MIT
-repository-code: "https://github.com/xinlongliu/M2-CRYO2ICE-AntarcticSnow"
-abstract: >-
-  Python code for retrieving Antarctic snow thickness on sea ice from
-  coincident ICESat-2 ATL10 V7 and CryoSat-2 Baseline-E L2E observations
-  (CRYO2ICE, August 2022 – September 2025), with sensitivity, autocorrelation,
-  and AMSR2 validation diagnostics. Accompanies Liu et al. (2026).
+    orcid: "https://orcid.org/0000-0002-3433-7651"
+    affiliation: >-
+      NASA Goddard Space Flight Center, Greenbelt, Maryland, USA
+  - family-names: Heil
+    given-names: Petra
+    orcid: "https://orcid.org/0000-0003-2078-0342"
+    affiliation: >-
+      Australian Antarctic Division and Australian Antarctic Program
+      Partnership, Hobart, Tasmania, Australia
+  - family-names: Corney
+    given-names: Stuart
+    orcid: "https://orcid.org/0000-0002-8293-0863"
+    affiliation: >-
+      Institute for Marine and Antarctic Studies, University of Tasmania,
+      Hobart, Tasmania, Australia
+
 keywords:
+  - snow depth over sea ice
   - Antarctic sea ice
-  - snow thickness
-  - CRYO2ICE
-  - ICESat-2
+  - satellite altimetry
   - CryoSat-2
-  - dual altimetry
-  - AMSR2
+  - ICESat-2
+  - CRYO2ICE
+  - dual-frequency altimetry
+  - Weddell Sea
+  - Ross Sea
+
+preferred-citation:
+  type: article
+  title: >-
+    Weddell-Ross Snow-Thickness Contrast over Antarctic Sea Ice from
+    Multi-Winter CRYO2ICE Observations
+  year: 2026
+  status: in-preparation
+  journal: AGU Earth and Space Science
+  authors:
+    - family-names: Liu
+      given-names: Xinlong
+      orcid: "https://orcid.org/0000-0001-6794-7571"
+    - family-names: Fraser
+      given-names: Alexander D.
+      orcid: "https://orcid.org/0000-0003-1924-0015"
+    - family-names: Tilling
+      given-names: Rachel L.
+      orcid: "https://orcid.org/0000-0002-3433-7651"
+    - family-names: Heil
+      given-names: Petra
+      orcid: "https://orcid.org/0000-0003-2078-0342"
+    - family-names: Corney
+      given-names: Stuart
+      orcid: "https://orcid.org/0000-0002-8293-0863"
