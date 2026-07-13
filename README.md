@@ -3,8 +3,8 @@
 Code and derived data for:
 
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
-> *Weddell–Ross Snow-Thickness Contrast over Antarctic Sea Ice from
-> Multi-Winter CRYO2ICE Observations.*
+> *Robust Regional Contrast but Penetration-Sensitive Snow Thickness
+> over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations.*
 > Manuscript under review at *AGU Earth and Space Science*.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -107,9 +107,9 @@ notebooks. The larger derived products are archived separately on Zenodo
 with a persistent DOI:
 
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
-> *Python Scripts, Jupyter Notebooks, and Results for "Weddell–Ross
-> Snow-Thickness Contrast over Antarctic Sea Ice from Multi-Winter
-> CRYO2ICE Observations."* Zenodo.
+> *Python Scripts, Jupyter Notebooks, and Results for "Robust Regional Contrast
+> but Penetration-Sensitive Snow Thickness over Sea Ice from Multi-Winter
+> Antarctic CRYO2ICE Observations."* Zenodo.
 > https://doi.org/10.5281/zenodo.19220192
 
 | Product | Approx. size | Used by |
@@ -198,16 +198,17 @@ button.
 **Manuscript**
 
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
-> Weddell–Ross Snow-Thickness Contrast over Antarctic Sea Ice from
-> Multi-Winter CRYO2ICE Observations.
+> Robust Regional Contrast but Penetration-Sensitive Snow Thickness
+> over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations.
 > *AGU Earth and Space Science*, manuscript under review.
 
 **Software and derived data (Zenodo)**
 
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
-> *Python Scripts, Jupyter Notebooks, and Results for "Weddell–Ross
-> Snow-Thickness Contrast over Antarctic Sea Ice from Multi-Winter
-> CRYO2ICE Observations"* [Software and data]. Zenodo.
+> *Python Scripts, Jupyter Notebooks, and Results for "Robust Regional
+> Contrast but Penetration-Sensitive Snow Thickness over Sea Ice from
+> Multi-Winter Antarctic CRYO2ICE Observations"*
+> [Software and data]. Zenodo.
 > https://doi.org/10.5281/zenodo.19220192
 
 ---
