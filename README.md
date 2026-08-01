@@ -5,7 +5,7 @@ Code and derived data for:
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
 > *Robust Regional Contrast but Penetration-Sensitive Snow Thickness
 > over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations.*
-> Manuscript under review at *Earth and Space Science*.
+> Manuscript accepted for publication on *Earth and Space Science (AGU)*.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19220192.svg)](https://doi.org/10.5281/zenodo.19220192)
@@ -189,9 +189,9 @@ Exact pins used to produce the manuscript outputs are recorded in
 
 ## How to cite
 
-If you use this code or data, please cite both the manuscript (or the
-archived release while the paper is under review) **and** the data
-deposit. A machine-readable `CITATION.cff` is provided in the repository
+If you use this code or data, please cite both the paper (or the
+archived release) **and** the data deposit.
+A machine-readable `CITATION.cff` is provided in the repository
 root and is automatically rendered by GitHub's "Cite this repository"
 button.
 
@@ -200,7 +200,7 @@ button.
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
 > Robust Regional Contrast but Penetration-Sensitive Snow Thickness
 > over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations.
-> *Earth and Space Science*, manuscript under review.
+> *Earth and Space Science*, manuscript accepted for publication.
 
 **Software and derived data (Zenodo)**
 
