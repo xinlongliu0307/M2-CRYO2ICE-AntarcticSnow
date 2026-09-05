@@ -108,9 +108,9 @@ notebooks. The larger derived products are archived separately on Zenodo
 with a persistent DOI:
 
 > Liu, X., Fraser, A. D., Tilling, R. L., Heil, P., and Corney, S. (2026).
-> *Python Scripts, Jupyter Notebooks, and Results for "Robust Regional Contrast
+> Python Scripts, Jupyter Notebooks, and Results for "Robust Regional Contrast
 > but Penetration-Sensitive Snow Thickness over Sea Ice from Multi-Winter
-> Antarctic CRYO2ICE Observations."* Zenodo.
+> Antarctic CRYO2ICE Observations." *Zenodo*.
 > https://doi.org/10.5281/zenodo.19220192
 
 | Product | Approx. size | Used by |
